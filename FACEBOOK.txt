@@ -1,0 +1,6 @@
+-edge-chat.facebook.
+/edge-chat.facebook.
+*-edge-chat.facebook.com/pull
+https://*edge-chat.facebook.com
+http://*edge-chat.facebook.com
+||edge-chat.facebook.com/chat?region=*
